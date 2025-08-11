@@ -21,12 +21,14 @@ It includes practice scripts, experiments, and small projects covering core modu
 * **Groq / OpenAI / Other LLM Providers**
 * **Vector Databases** (FAISS, Pinecone, ChromaDB, etc.)
 
+```
+
 ## 🛠 Setup Instructions
 
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/<your-username>/Langchain_Learnings.git
+   git clone https://github.com/choudaryhussainali/Langchain_Learnings.git
    cd langchain-learning
    ```
 
