@@ -12,7 +12,7 @@ It includes practice scripts, experiments, and small projects covering core modu
 * **LangServe** – Deploying LangChain apps as APIs
 * **LangGraph** – Multi-agent and graph-based workflows
 
-```
+
 
 ## 🚀 Tech Stack
 
@@ -21,7 +21,7 @@ It includes practice scripts, experiments, and small projects covering core modu
 * **Groq / OpenAI / Other LLM Providers**
 * **Vector Databases** (FAISS, Pinecone, ChromaDB, etc.)
 
-```
+
 
 ## 🛠 Setup Instructions
 
