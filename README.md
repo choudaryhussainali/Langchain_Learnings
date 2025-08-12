@@ -8,6 +8,10 @@ It includes practice scripts, experiments, and small projects covering core modu
 * **LangChain Core**
 * **LangChain Expression Language (LCEL)**
 * **Retrieval-Augmented Generation (RAG)**
+* **Splitting**
+* **Chunking**
+* **Embedding**
+* **Vectore Stores**
 * **LangSmith** – Observability and debugging
 * **LangServe** – Deploying LangChain apps as APIs
 * **LangGraph** – Multi-agent and graph-based workflows
